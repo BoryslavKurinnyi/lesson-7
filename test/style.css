@@ -1,0 +1,40 @@
+.header{
+	background-color: blue;
+	box-shadow: 0 0 10px red;
+	margin-top: 20px;
+	margin-height: 200px;
+	line-height: 200px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.sidebar{
+	background-color: yellow;
+	float: left;
+	margin-right: 20px; 
+
+}
+.sidebar1{
+	background-color: red;
+	float: auto;
+	margin-left: 20px;
+
+}
+
+.container{
+	background-color: purple;
+}
+
+.footer{
+	background-color: black;
+	color: white; 
+	margin-top: 20px;
+	line-height: 20px;
+
+}
+div{
+	border: 1px solid black;
+	
+}
+h4{
+	text-align: center;
+}
