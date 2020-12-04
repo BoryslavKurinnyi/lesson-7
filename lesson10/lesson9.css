@@ -1,0 +1,33 @@
+.main{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.ironman{
+	width: 300px;
+	 background: rgb(194,222,56);
+background: linear-gradient(40deg, rgba(194,222,56,1) 32%, rgba(255,0,0,1) 100%); 
+border-radius: 30px;
+}
+.captainamerica{
+	width: 300px;
+	 background: rgb(56,66,222);
+background: linear-gradient(40deg, rgba(56,66,222,1) 32%, rgba(255,0,0,1) 90%); 
+border-radius: 30px;
+text-align: left;
+}
+.blackwidow{
+	width: 300px;
+	 background: rgb(194,222,56);
+background: linear-gradient(40deg, rgba(194,222,56,1) 32%, rgba(27,0,255,1) 100%); 
+border-radius: 30px;
+}
+.spyderman{
+	width: 300px;
+	 background: rgb(0,0,0);
+background: linear-gradient(40deg, rgba(0,0,0,1) 32%, rgba(255,0,0,1) 90%); 
+border-radius: 30px;
+}
+img{
+	height: 250px;
+}
